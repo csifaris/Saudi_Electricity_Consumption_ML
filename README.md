@@ -1,5 +1,6 @@
 # 🇸🇦 Saudi Electricity Consumption Analysis
 
+
 ## 🎯 Objective
 Predict electricity consumption and classify sectors using Machine Learning.
 
@@ -20,4 +21,5 @@ Predict electricity consumption and classify sectors using Machine Learning.
 Saudi Electricity Consumption Data (2005-2022)
 
 ## 👨‍💻 Author
-[FARIS ALMUSHRAFI]
+FARIS ALMUSHRAFI  
+LinkedIn: [csfaris](https://www.linkedin.com/in/csfaris)
